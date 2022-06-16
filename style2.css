@@ -147,6 +147,7 @@
     justify-content: space-between;
   }
   .course-col{
+    max-width: 250px;
     flex-basis: 56%;
     background: #ebc6ea;
     border-radius: 900px;
@@ -213,5 +214,16 @@
     .contact-col h1{
       font-size: 20px;
     }
-    
   }
+    .about_me{
+      height: 100vh;
+      width: 100%;
+      background-image: linear-gradient(rgba(204, 192, 209, 0.7),rgba(242, 185, 233, 0.7)),url(https://images.unsplash.com/photo-1590119977523-5af0d80c559f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80);
+    background-position: center;
+    background-size: cover;
+    text-align :left;
+    color: #591358;
+    font-size: 29px;
+
+    }
+  
