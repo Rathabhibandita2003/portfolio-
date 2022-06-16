@@ -189,6 +189,15 @@
   color: #591358;
   font-size: 29px;
   }
+  @media (max-width:700px) {
+    .sub-header h1{
+      font-size: 20px;
+
+    }
+    .sub-header h4{
+      font-size: 10px;
+    }
+  }
   .contact-us{
     width: 80%;
     margin: auto;
@@ -226,4 +235,8 @@
     font-size: 29px;
 
     }
+    @media (max-width:700px) {
+      .about_me h3 pre{
+        font-size: 10px;
+      }
   
