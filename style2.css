@@ -94,9 +94,7 @@
     color: aliceblue;
     transition: 0.6s;
   }
-  nav .fa{
-    display: none;
-  }
+  
   
   @media(max-width:700px){
     .text-box h1{
